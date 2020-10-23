@@ -37,17 +37,17 @@ function promptUser() {
     },
     {
         type: "input",
-        message: "What command should be run to run tests?",
+        message: "What are the test instruction?",
         name: "test"
     },
     {
         type: "input",
-        message: "What does the user need to know about using the repo?",
-        name: "info"
+        message: "How would you like your application to be used?",
+        name: "usage"
     },
     {
         type: "input",
-        message: "What does the user need to know about contributing to the repo?",
+        message: "Who contributed on this project?",
         name: "contribution"
     },
     {
@@ -75,11 +75,12 @@ function generateMarkdown(response) {
     - [License](#license)
     - [Installation](#installation)
     - [Test](#test)
-    - [Info](#info)
+    - [Usage](#usage)
     - [Contributing](#contribution)
     - [Questions](#questions)
 
     ##Description:
+
     ![License](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")
 
         ${response.description}
@@ -94,17 +95,20 @@ function generateMarkdown(response) {
 
     ## Test:
         ${response.test} 
-    ## Info:
-        ${response.info} 
+
+    ## Usage:
+        ${response.usage} 
 
     ## Contributing:
         ${response.contribution} 
    
     ## Questions:
+
         For questions about the Generator, you can go to my 
         GitHub page at the following Link:
     
     - [GitHub Profile](https://github.com/${response.username})
+
 
     For additional questions, please reach out to my email at ${response.email}
 

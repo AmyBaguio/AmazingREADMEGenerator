@@ -1,5 +1,5 @@
 
-    # Amazing README Generator
+    # Amazing READMe Generator
     
     # Table of Contents
     
@@ -7,14 +7,15 @@
     - [License](#license)
     - [Installation](#installation)
     - [Test](#test)
-    - [Info](#info)
+    - [Usage](#usage)
     - [Contributing](#contribution)
     - [Questions](#questions)
 
     ##Description:
+
     ![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")
 
-        A ReadMe generator using the node.js
+        This application uses node.js,fs,util and inquirer to create prompts for user to fill the questions with answer
 
     ## License:
      
@@ -22,21 +23,24 @@
     - [License](https://opensource.org/licenses/Apache)    
     
     ## Installation:
-        npm install
+        install init
 
     ## Test:
-        test 
-    ## Info:
-        An efficient way to write ReadMe 
+        none 
+
+    ## Usage:
+        To be used as an efficient README generator saving creators time on projects than on ReadMe 
 
     ## Contributing:
-        PR's are welcome 
+        UWA and Trilogy Bootcamp 
    
     ## Questions:
+
         For questions about the Generator, you can go to my 
         GitHub page at the following Link:
     
     - [GitHub Profile](https://github.com/AmyBaguio)
+
 
     For additional questions, please reach out to my email at amalynlaquinta@yahoo.com
 
