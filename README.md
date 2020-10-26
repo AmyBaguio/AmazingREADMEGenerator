@@ -9,15 +9,15 @@ As a project creator, I would like to use an efficient ReadMe Generator that wil
 
 * A command line that accepts user input
 * A high quality, professional README.md is generated with the following contents:
-- Title
-- Description
-- License
-- Installation
-- Test
-- Usage
-- Contributors
-- Github UserName
-- Email Address
+  - Title
+  - Description
+  - License
+  - Installation
+  - Test
+  - Usage
+  - Contributors
+  - Github UserName
+  - Email Address
 
 ## Technologies used to create Generator
 
