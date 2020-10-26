@@ -26,7 +26,7 @@ As a project creator, I would like to use an efficient ReadMe Generator that wil
 * FS
 * Inquirer
 
-##  Please see the sample README.md file for a project repository generated using the application on "Amazing ReadMe Generator" Folder above.
+####  Please see the sample README.md file for a project repository generated using the application on "Amazing ReadMe Generator" Folder above.
 
 ## To view the walkthrough video, please click on the link below
 
