@@ -26,9 +26,12 @@ As a project creator, I would like to use an efficient ReadMe Generator that wil
 * FS
 * Inquirer
 
+
+
 ## To view the walkthrough video, please click on the link below
 
 [ReadMeGenerator Video](https://drive.google.com/file/d/1Y-cjkZ7O7ZnzO2D275xkmgRN3IDNQrSU/view)
+
 
 
 <br>
@@ -36,3 +39,4 @@ As a project creator, I would like to use an efficient ReadMe Generator that wil
 ## ReadMe Screenshot
 
 ![App Screenshot](ReadMe.png)
+=======
