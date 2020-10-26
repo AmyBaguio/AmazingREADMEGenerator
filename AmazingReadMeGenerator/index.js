@@ -47,7 +47,7 @@ function promptUser() {
     },
     {
         type: "input",
-        message: "Who contributed on this project?",
+        message: "Who can contribute to this project?",
         name: "contribution"
     },
     {
@@ -124,7 +124,7 @@ async function init() {
         const readMe = generateMarkdown(response);
 
         await writeFileAsync("README.md", readMe);
-        console.log("Success!");
+        console.log("Generating READMe...");
     } catch (err) {
         console.log(err);
     }
